@@ -80,4 +80,13 @@ th {
     height: auto;
     padding: 2%;
     padding-bottom: 25;
+    alt: "kirándulás";
+    height: 150px;
+    float: right;
+}
+
+.also {
+    color: darkgreen;
+    size: 5px;
+    width: 80%;
 }
